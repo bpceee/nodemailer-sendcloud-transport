@@ -1,4 +1,4 @@
-# nodemailer-sendgrid-transport
+# nodemailer-sendcloud-transport
 #### caution: only support text/html right now.
 This module is a transport plugin for [SendCloud](http://sendcloud.sohu.com/) that makes it possible to send through [SendCloud's Web API](http://sendcloud.sohu.com/api-doc/doc-index)!
 
